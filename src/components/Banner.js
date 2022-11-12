@@ -45,7 +45,7 @@ export const Banner = () => {
                 <Row className="align-items-center">
                     <Col xs={12} md={6} xl={7}>
                         <span className="tagline">Welcome to my Portfolio</span>
-                        <h1>{`Hi Im Stefano Straga`}<span className="wrap">{text}</span></h1>
+                        <h1>{`Hello Im Stefano Straga `}<span className="wrap">{text}</span></h1>
                         <p>
                             I am a full stack programming student, I like the backend and everything that has to do with web3, passionate about cryptocurrencies and programming, I would like to be able to work on it one day, my favorite programming languages are C#, PHP and JS
                         </p>
