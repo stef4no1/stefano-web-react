@@ -49,7 +49,7 @@ export const Banner = () => {
                         <p>
                             I am a full stack programming student, I like the backend and everything that has to do with web3, passionate about cryptocurrencies and programming, I would like to be able to work on it one day, my favorite programming languages are C#, PHP and JS
                         </p>
-                        <button onClick={() => console.log('connect')}>Lets Connect <ArrowRightCircle size={25}/></button>
+                        <button onClick={() => console.log('connect')}>Contact me<ArrowRightCircle size={25}/></button>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
                         <img src={headerImg} alt="Header Img"/>
